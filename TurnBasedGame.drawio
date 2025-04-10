@@ -191,7 +191,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SuwPCWMKSnWdElRVRI-E-75" value="((power/100) * atk / def)+2" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88AwyDFA8X;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+        <mxCell id="SuwPCWMKSnWdElRVRI-E-75" value="((power/10) * atk / (def/4))+ random(0,10)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88AwyDFA8X;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="1325" y="-3011" width="285" height="111" as="geometry" />
         </mxCell>
         <mxCell id="SuwPCWMKSnWdElRVRI-E-76" value="Damage Calculation" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88cMcG0BLH;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
