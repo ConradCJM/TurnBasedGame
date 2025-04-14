@@ -1895,7 +1895,7 @@
         <mxCell id="tvQBMU8BPgQ0a5n17ctS-558" value="Damage Benchmarks (Super Heavy attacks)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88cMcG0BLH;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-484">
           <mxGeometry width="710" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-559" value="Benchmarks - NO ROLLS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88cMcG0BLH;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-559" value="Benchmarks - NO/MIN ROLLS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88cMcG0BLH;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="2672.5" y="-3670" width="285" height="39" as="geometry" />
         </mxCell>
         <mxCell id="tvQBMU8BPgQ0a5n17ctS-561" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;strokeWidth=5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SuwPCWMKSnWdElRVRI-E-76" target="tvQBMU8BPgQ0a5n17ctS-559">
