@@ -483,8 +483,11 @@
         <mxCell id="EZDDFq-HGAGV6MOwN--q-42" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;&quot;&gt;Signature Ability:&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 16.7px;&quot;&gt;Adaptability: When using a pure physical move or a pure magic move increase the corresponding offensive stat by 125%&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=dv98tXraSC0S;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="-2600" y="2437" width="240" height="211" as="geometry" />
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-86" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=light-dark(#DDA15E,#000000);fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="-4090" width="710" height="468" as="geometry" />
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-183" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1380" y="-4129" width="710" height="507" as="geometry" />
+        </mxCell>
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-86" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=light-dark(#DDA15E,#000000);fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-183">
+          <mxGeometry y="39" width="710" height="468" as="geometry" />
         </mxCell>
         <mxCell id="tvQBMU8BPgQ0a5n17ctS-143" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=light-dark(#DDA15E,#000000);top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-86">
           <mxGeometry width="710" height="59" as="geometry" />
@@ -830,8 +833,8 @@
             <mxRectangle width="88" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-182" value="Damage Benchmarks (Weak attacks)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88cMcG0BLH;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="-4129" width="710" height="39" as="geometry" />
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-182" value="Damage Benchmarks (Weak attacks)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88cMcG0BLH;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-183">
+          <mxGeometry width="710" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
