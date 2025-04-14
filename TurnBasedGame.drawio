@@ -459,7 +459,7 @@
         <mxCell id="EZDDFq-HGAGV6MOwN--q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;strokeWidth=5;labelBackgroundColor=none;" parent="1" source="EZDDFq-HGAGV6MOwN--q-35" target="SuwPCWMKSnWdElRVRI-E-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EZDDFq-HGAGV6MOwN--q-35" value="Everyone Starts with 1000 waiting value:&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;At the start of battle: Everyone subtracts their speed stat from this value&lt;br&gt;&lt;br&gt;LOOP:&lt;br&gt;&lt;br&gt;Character with smallest Value has the current turn.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Character with current turn gets a new instance added with a waiting value of 1000&lt;br&gt;&lt;br&gt;Character who just had a turn is&amp;nbsp; removed from waiting list&lt;br&gt;&lt;br&gt;Everyone subtracts current speed stat from Value&lt;br&gt;&lt;br&gt;End LOOP&lt;br&gt;&lt;br&gt;LOOP Repeats until battle over&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88AwyDFA8X;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+        <mxCell id="EZDDFq-HGAGV6MOwN--q-35" value="Everyone Starts with a waiting value:&lt;div&gt;Waiting Value is all speed values combined&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;At the start of battle: Everyone subtracts their speed stat from this value&lt;br&gt;&lt;br&gt;LOOP:&lt;br&gt;&lt;br&gt;Character with smallest Value has the current turn.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Character with current turn gets a new instance added with a reset waiting value&amp;nbsp;&lt;br&gt;&lt;br&gt;Character who just had a turn is&amp;nbsp; removed from waiting list&lt;br&gt;&lt;br&gt;Everyone subtracts current speed stat from Value&lt;br&gt;&lt;br&gt;End LOOP&lt;br&gt;&lt;br&gt;LOOP Repeats until battle over&lt;/div&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88AwyDFA8X;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="1350" y="-3281" width="285" height="531" as="geometry" />
         </mxCell>
         <mxCell id="EZDDFq-HGAGV6MOwN--q-36" value="Turn Order Calculation" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88cMcG0BLH;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
@@ -936,7 +936,7 @@
             <mxRectangle width="88" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-206" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-204">
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-206" value="1000 - 4000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-204">
           <mxGeometry x="88" width="90" height="58" as="geometry">
             <mxRectangle width="90" height="58" as="alternateBounds" />
           </mxGeometry>
@@ -979,7 +979,7 @@
             <mxRectangle width="88" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-215" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-213">
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-215" value="2000 -" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-213">
           <mxGeometry x="88" width="90" height="59" as="geometry">
             <mxRectangle width="90" height="59" as="alternateBounds" />
           </mxGeometry>
@@ -1022,7 +1022,7 @@
             <mxRectangle width="88" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-224" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-222">
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-224" value="3000 -" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-222">
           <mxGeometry x="88" width="90" height="58" as="geometry">
             <mxRectangle width="90" height="58" as="alternateBounds" />
           </mxGeometry>
@@ -1065,7 +1065,7 @@
             <mxRectangle width="88" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-233" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-231">
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-233" value="4000 -" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-231">
           <mxGeometry x="88" width="90" height="59" as="geometry">
             <mxRectangle width="90" height="59" as="alternateBounds" />
           </mxGeometry>
@@ -1108,7 +1108,7 @@
             <mxRectangle width="88" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-242" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-240">
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-242" value="5000 -" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-240">
           <mxGeometry x="88" width="90" height="58" as="geometry">
             <mxRectangle width="90" height="58" as="alternateBounds" />
           </mxGeometry>
@@ -1151,7 +1151,7 @@
             <mxRectangle width="88" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-251" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-249">
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-251" value="6000 -" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-249">
           <mxGeometry x="88" width="90" height="58" as="geometry">
             <mxRectangle width="90" height="58" as="alternateBounds" />
           </mxGeometry>
