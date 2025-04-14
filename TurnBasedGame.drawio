@@ -845,7 +845,7 @@
         <mxCell id="tvQBMU8BPgQ0a5n17ctS-186" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=light-dark(#DDA15E,#000000);top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-185">
           <mxGeometry width="710" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="tvQBMU8BPgQ0a5n17ctS-187" value="Power = 50 - 70" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-186">
+        <mxCell id="tvQBMU8BPgQ0a5n17ctS-187" value="Power = 50 - 80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#DDA15E,#000000);overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#FEFAE0;" vertex="1" parent="tvQBMU8BPgQ0a5n17ctS-186">
           <mxGeometry width="88" height="59" as="geometry">
             <mxRectangle width="88" height="59" as="alternateBounds" />
           </mxGeometry>
