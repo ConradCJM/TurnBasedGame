@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="1F6vmbB6NZT7TlmIuoOv">
-    <mxGraphModel dx="6276" dy="5523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #befefd)" math="0" shadow="0">
+    <mxGraphModel dx="5432" dy="5055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #befefd)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SuwPCWMKSnWdElRVRI-E-75" value="((power/10) * atk / ((1+def)/4) * crit)+ random(0,10)&amp;nbsp;&amp;nbsp;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88AwyDFA8X;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+        <mxCell id="OX6-vXv14yLBr-oj3K1e-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SuwPCWMKSnWdElRVRI-E-75" target="EZDDFq-HGAGV6MOwN--q-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SuwPCWMKSnWdElRVRI-E-75" value="((power/10) * atk / ((1+def)/4) * crit(1.5))+ random(0,10)&amp;nbsp;&amp;nbsp;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88AwyDFA8X;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="1350" y="-3511" width="285" height="111" as="geometry" />
         </mxCell>
         <mxCell id="SuwPCWMKSnWdElRVRI-E-76" value="Damage Calculation" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#BC6C25;strokeWidth=1.5;lucidId=Uc88cMcG0BLH;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
