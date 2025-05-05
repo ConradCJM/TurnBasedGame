@@ -2002,6 +2002,18 @@
             <mxPoint x="110" y="-3120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="72Tc2FQm_jTbxd1vDqVk-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#DDA15E;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#BC6C25;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SuwPCWMKSnWdElRVRI-E-57" target="72Tc2FQm_jTbxd1vDqVk-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="-2770" as="sourcePoint" />
+            <mxPoint x="990" y="-2635" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="-2675" />
+              <mxPoint x="860" y="-3030" />
+              <mxPoint x="100" y="-3030" />
+              <mxPoint x="100" y="-3275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
